@@ -32,7 +32,7 @@ div#logo {
     margin-left: 3%;
 	font-family: Raleway, sarif;
     color: white;
-    margin-top: 30px;
+    margin-top: 10px;
 	margin-bottom: 70px;
 	
 }
@@ -44,7 +44,7 @@ img.logo {
 	background: url(../images/CB_logo.jpg) no-repeat;
 	height: 65px;
 	width: 60px;
-	margin-top: -8px;
+	margin-top: -5px;
 	margin-right: 10px;
 }
 div.name {
@@ -71,10 +71,9 @@ nav {
 	margin: auto;
     width: 500px;
     margin-right: 2%;
-    margin-top: 20px;
 }
 #nav-1 ul li {
-	margin-top: 25px;
+	margin-top: 10px;
 }
 #nav-2 {
 	margin-top: -20px;
@@ -85,7 +84,6 @@ nav {
 	font-family: Raleway, monospace;
 	font-size: 1em;
 	font-weight: bold;
-	text-transform: uppercase;
 	letter-spacing: 0.07em;
     text-align: center;
     margin-bottom: 20px;
@@ -111,8 +109,8 @@ nav {
 /* END NAV area & HEADER */
 
 
-/* LANDING PAGE */
-#landing-page {
+/* ABOUT Section */
+#about-page {
 	display: block;
 	padding: 0;
 	margin: auto;
@@ -140,7 +138,7 @@ div.titles h2 {
     font-size: 1.25em;
     padding-top: 20px;
 } 
-/* Landing page end */
+/* ABOUT Section end */
 
 
 
@@ -358,7 +356,7 @@ div#copyright {
 	.nav-btn a {
 		padding: 0.20em;
 	}
-	#landing-page {
+	#about-page {
         height: auto;
         padding-bottom: 50px;
 	}
