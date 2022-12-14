@@ -200,6 +200,32 @@ div.titles h2 {
 
 
 
+/* EXPERIENCE section */
+#experience-container {
+	background-color: rgb(218, 213, 224);
+	width: 100%;
+	margin: auto;
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+#jobs {
+	width: 60%;
+	margin: auto;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+}
+#pint.title {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+/* EXPERIENCE section end */
+
+
 /* INTRO */
 .intro-container {
 	background-color: rgb(218, 213, 224);
@@ -240,8 +266,7 @@ div.titles h2 {
 	text-align: justify;
 	line-height: 1.5;
 } 
-/* Intro section end */
-
+/* INTRO section end */
 
 
 /* PORTFOLIO */
